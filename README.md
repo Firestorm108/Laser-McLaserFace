@@ -89,6 +89,5 @@ I designed this due to many cheap diode laser cutters flooding the market, with 
 ---
 
 ### **Total Cost: $489**  
-**_(A bit crazy, I know. Just the laser cutter itself would fit into the $350 budget, but adding all these safety features has skyrocketed the price, which is worth it.)_**
 
 ---
